@@ -5,7 +5,8 @@
  */
 package Modelo;
 
-import com.sun.jdi.connect.spi.Connection;
+//import com.sun.jdi.connect.spi.Connection;
+import com.sun.corba.se.pept.transport.Connection;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;

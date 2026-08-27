@@ -6,8 +6,8 @@
 package Modelo;
 
 //import com.sun.jdi.connect.spi.Connection;
-import java.lang.System.Logger;
-import java.lang.System.Logger.Level;
+//import java.lang.System.Logger;
+//import java.lang.System.Logger.Level;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;

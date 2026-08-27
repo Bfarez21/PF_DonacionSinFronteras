@@ -1,6 +1,7 @@
 package Modelo;
 
-import com.sun.jdi.connect.spi.Connection;
+//import com.sun.jdi.connect.spi.Connection;
+import com.sun.corba.se.pept.transport.Connection;
 import java.awt.Image;
 import java.sql.PreparedStatement;
 import java.sql.ResultSet;
