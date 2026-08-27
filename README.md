@@ -56,3 +56,20 @@ Proyecto integrador desarrollado para la carrera de **Tecnología Superior en De
 * **Pruebas y Reportes:** Ejecución de pruebas unitarias/de integración del sistema e integración de reportes con JasperReports.
 
 ---
+## 📸 Capturas de la Interfaz
+
+| Pantalla de Inicio (Home) | Autenticación de Usuarios |
+| :---: | :---: |
+| ![Home](./screenshots/home.png) | ![Login](./screenshots/01-login.png) |
+
+| Registro de Productos | Gestión de Donaciones |
+| :---: | :---: |
+| ![Productos](./screenshots/02-registro-productos.png) | ![Donaciones](./screenshots/05-gestion-donaciones.png) |
+
+| Logística y Transporte | Aprobación de Solicitudes |
+| :---: | :---: |
+| ![Transporte](./screenshots/03-logistica-transporte.png) | ![Aprobaciones](./screenshots/04-aprobaciones.png) |
+
+| Reportes y Estadísticas |
+| :---: |
+| ![Reportes](./screenshots/06-reportes.png) |
